@@ -1,2 +1,2 @@
-#!/bin/bash
-print("Hello world")
+#!/bin/sh
+python python_script.py
