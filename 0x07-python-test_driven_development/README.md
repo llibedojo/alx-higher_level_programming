@@ -1,2 +1,1 @@
-This directory is for the 0x07-python-test_driven_development project
-`
+This is for  0x07-python-test_driven_development project
